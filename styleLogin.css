@@ -1,0 +1,33 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.container {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.logo {
+  height: 200px;
+  margin-bottom: 0px;
+  margin-left: -70px;
+}
+.forgot-password {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.welcome-message {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.create-account {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+button {
+
+  font-size: 20px;
+}
