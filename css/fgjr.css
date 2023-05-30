@@ -24,6 +24,15 @@ header img {
     height: 100px;
 }
 
+
+.text {
+
+  position: relative;
+  top: -30%;
+  font-size: 24px;
+}
+
+
 aside {
 float: right;
 
@@ -48,7 +57,11 @@ main h1 {
     color: var(--brown);
 }
 
+.pesquisa {
 
+width: 800px;
+
+}
 
 
 main .imovel {
