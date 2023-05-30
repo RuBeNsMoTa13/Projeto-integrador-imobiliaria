@@ -1,138 +1,161 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
-  <meta charset="UTF-8">
-  <link rel="preconnect" href="https://fonts.googleapis.com"/>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,700&display=swap" rel="stylesheet"/>
-  <meta name="viewport" conten />
-  <link rel="stylesheet" type="text/css" href="style.css"/>
-  <script src="https://unpkg.com/@phosphor-icons/web"></script>
-	<title>FRGJ Imóveis</title>
+	<meta charset="UTF-8">
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,700&display=swap"
+		rel="stylesheet" />
+	<meta name="viewport" conten />
+	<link rel="stylesheet" type="text/css" href="css/fgjr.css" />
+
+	<script src="https://unpkg.com/@phosphor-icons/web"></script>
+	<title>FGJR Imóveis</title>
 </head>
 
 <body>
 	<header>
-		<img src="src/Logo.svg" alt="Logo da empresa" class="logo" >
-		<span class="login">
-		<i class="ph ph-user-circle"></i>
-		<a class="minha-conta" href="/Minha-conta">
-			<strong>
-			Minha Conta
-			</strong>
-		</a>
-		</span>
+		<img src="imagens/Logo2.svg">
+		<a href="/Minha-conta"><strong>Minha Conta</strong></a>
 	</header>
-	
+
+
+	<aside>
+		<div class="container">
+			<h1>
+				Faça seu Login
+			</h1>
+			<img src="imagens/Logo.svg" hi alt="Logo da Empresa">
+			<form>
+				<input type="email" placeholder="Email" required><br>
+				<input type="password" placeholder="Senha" required><br>
+				<br>
+				<button class="button" type="submit">Entrar</button>
+			</form>
+		</div>
+
+		<div class="container2">
+
+			<h2 class="Criar">
+				Crie uma conta!
+			</h2>
+			<img src="imagens/Computadores.svg" />
+			<p> Cadastre-se em nosso site e receba em primeira mão as melhores opções de imóveis disponíveis</p>
+			<p class="logar">
+				Já tem uma conta?
+				<a href="/Minha-conta">Conecte-se</a>
+
+			</p>
+	</aside>
 
 	<main>
-		<h1 class="text-h1">
-			Encontre a propriedade perfeita com nossa imobiliária
-		</h1>
+	<h1 class="text-h1">
+		Encontre a propriedade perfeita com nossa imobiliária
+	</h1>
+
+	<p>
+		<strong>
+			Na FGJR Imóveis, oferecemos soluções inovadoras e personalizadas para quem busca comprar, vender ou alugar
+			imóveis.
+		</strong>
+	</p>
+	<form>
+		<font size="+2"> Pesquise por locação:</font>
+		<input  class="" type="text" id="pesquisa" name="pesquisa">
+	</form>
+
+	<h3><strong>Descubra seu imóvel</strong></h3>
+	<p>Com a nossa expertise no mercado imobiliário, garantimos a satisfação de nossos clientes por meio de um
+		atendimento de excelência e oferta de imóveis exclusivos e diferenciados </p>
 		
-		<p>
-			<strong>
-			Na FGJR Imóveis, oferecemos soluções inovadoras e personalizadas para quem busca comprar, vender ou alugar imóveis.
-			</strong>
-		</p>
-		<form>
-			<label  for="pesquisa"><font size = "+2"> Pesquise por locação:</font></label>
-			<input type="text" id="pesquisa" name="pesquisa">
-		</form>
-		<img src="src/background.svg" alt="Logo da empresa"></img>
+		<div class="imovel">
+			<img src="imagens/imovel1.jpg" alt="Imagem do imóvel 1">
+			<div class="informacoes">
+				<h2>Apartamento no centro</h2>
+				<i class="ph ph-bed">2</i>
+				<i class="ph ph-toilet">2</i>
+				<i class="ph ph-car">1</i>
+				<i class="ph ph-grid-nine">99m²</i>
+				<p>R$ 2.500/mês</p>
+			</div>
+		</div>
 
-		<h3><strong>Descubra seu imóvel</strong></h3>
-		<p>Com a nossa expertise no mercado imobiliário, garantimos a satisfação de nossos clientes por meio de um atendimento de excelência e oferta de imóveis exclusivos e diferenciados </p>
-
-		<div class="imoveis">
+		
 			<div class="imovel">
-				<img src="imovel1.jpg" alt="Imagem do imóvel 1">
+				<img src="imagens/imovel1.jpg" alt="Imagem do imóvel 1">
 				<div class="informacoes">
-					<h2>Apartamento no centro</h2>
+					<h2>Casa</h2>
 					<i class="ph ph-bed">2</i>
 					<i class="ph ph-toilet">2</i>
 					<i class="ph ph-car">1</i>
-					<i class="ph ph-grid-nine">100m²</i>
+					<i class="ph ph-grid-nine">99m²</i>
 					<p>R$ 2.500/mês</p>
 				</div>
 			</div>
 
-			<div class="imoveis">
-			<div class="imovel">
-				<img src="imovel1.jpg" alt="Imagem do imóvel 1">
-				<div class="informacoes">
-				<h2>Casa</h2>
-					<i class="ph ph-bed">2</i>
-					<i class="ph ph-toilet">2</i>
-					<i class="ph ph-car">1</i>
-					<i class="ph ph-grid-nine">100m²</i>
-					<p>R$ 2.500/mês</p>
+				<div class="imovel">
+					<img src="imagens/imovel1.jpg" alt="Imagem do imóvel 1">
+					<div class="informacoes">
+						<h2>Terreno com 300m²</h2>
+						<i class="ph ph-grid-nine">299m²</i>
+						<p>R$ 2.500/mês</p>
+					</div>
 				</div>
-			</div>
 
-			<div class="imoveis">
-			<div class="imovel">
-				<img src="imovel1.jpg" alt="Imagem do imóvel 1">
-				<div class="informacoes">
-					<h2>Terreno com 300m²</h2>
-					<i class="ph ph-grid-nine">300m²</i>
-					<p>R$ 2.500/mês</p>
-				</div>
-			</div>
+				
+					<div class="imovel">
+						<img src="imagens/imovel1.jpg" alt="Imagem do imóvel 1">
+						<div class="informacoes">
+							<h2>Apartamento no centro</h2>
+							<i class="ph ph-bed">2</i>
+							<i class="ph ph-toilet">2</i>
+							<i class="ph ph-car">1</i>
+							<i class="ph ph-grid-nine">99m²</i>
+							<p>R$ 2.500/mês</p>
+						</div>
+					</div>
 
-			<div class="imoveis">
-			<div class="imovel">
-				<img src="imovel1.jpg" alt="Imagem do imóvel 1">
-				<div class="informacoes">
-					<h2>Apartamento no centro</h2>
-					<i class="ph ph-bed">2</i>
-					<i class="ph ph-toilet">2</i>
-					<i class="ph ph-car">1</i>
-					<i class="ph ph-grid-nine">100m²</i>
-					<p>R$ 2.500/mês</p>
-				</div>
-			</div>
+					
+						<div class="imovel">
+							<img src="imagens/imovel1.jpg" alt="Imagem do imóvel 1">
+							<div class="informacoes">
+								<h2>Casa</h2>
+								<i class="ph ph-bed">2</i>
+								<i class="ph ph-toilet">2</i>
+								<i class="ph ph-car">1</i>
+								<i class="ph ph-grid-nine">99m²</i>
+								<p class="preço">
+									R$ 2.500/mês
+								</p>
+							</div>
+						</div>
 
-			<div class="imoveis">
-			<div class="imovel">
-				<img src="imovel1.jpg" alt="Imagem do imóvel 1">
-				<div class="informacoes">
-				<h2>Casa</h2>
-					<i class="ph ph-bed">2</i>
-					<i class="ph ph-toilet">2</i>
-					<i class="ph ph-car">1</i>
-					<i class="ph ph-grid-nine">100m²</i>
-					<p class="preço">
-						R$ 2.500/mês
-					</p>
-				</div>
-			</div>
-			
-					<div class="imoveis">
-			<div class="imovel">
-				<img src="imovel1.jpg" alt="Imagem do imóvel 1">
-				<div class="informacoes">
-					<h2>
-						Terreno com 300m²
-					</h2>
-					<i class="ph ph-grid-nine">300m²</i>
-					<p>
-						R$ 2.500/mês
-					</p>
-				</div>
-			</div>
+						
+							<div class="imovel">
+								<img src="imagens/imovel1.jpg" alt="Imagem do imóvel 1">
+								<div class="informacoes">
+									<h2>
+										Terreno com 300m²
+									</h2>
+									<i class="ph ph-grid-nine">299m²</i>
+									<p>
+										R$ 2.500/mês
+									</p>
+								</div>
+							</div>
+							<img src="imagens/background.svg" alt="Logo da empresa"></img>
+							<footer>
+								<img src="imagens/logoFooter.svg" alt="Logo da empresa no rodapé">
+								<h2>
+									<strong>
+										Entre em contato
+									</strong>
+								</h2>
+								<p>
+									(15 3232-3232)
+								</p>
+							</footer>
+</body>
 
-			<footer>
-				<img src="src/logoFooter.svg" alt="Logo da empresa no rodapé">
-				<h2>
-					<strong>
-						Entre em contato 
-					</strong>
-				</h2>
-				<p>
-					(15 3232-3232)
-				</p>
-			</footer>
-</body> 
- </HTML>
- 
+</HTML>

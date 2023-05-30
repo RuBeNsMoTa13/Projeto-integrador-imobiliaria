@@ -1,8 +1,4 @@
-body {
-    font-family: 'Montserrat', sans-serif;
-    width: 1890px;
-    height: 6448px;
-}
+
 :root {
 --orange: #f9a447;
 --brown: #514c46;
@@ -10,7 +6,7 @@ body {
 --gray: #d8d8d8;
 }
 .logo {
-    height:100px;
+    height:200px;
     width: 350px;
     margin-bottom: 0px;
     margin-left: -70px;
@@ -25,28 +21,21 @@ header {
 }
 
 header img {
-    height: 65px;
+    height: 100px;
+}
+
+aside {
+float: right;
+
 }
 .login{
     font-size: 24px;
     color: var(--black);
 }
 
-header i {
-    width: 30px;
-    height: 30px;
-    left: 1800px;
-    top: 17px;
-    background: var(--brown);
-}
-
-main {
-    padding: 20px;
-}
 
 main h1 {
-    width: 2168px;
-    height: 91px;
+   
     left: 300px;
     top: 166px;
 
@@ -59,20 +48,8 @@ main h1 {
     color: var(--brown);
 }
 
-main p {
-    font-size: 18px;
-    margin-bottom: 40px;
-}
 
-main input[type="text"] {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    border-radius: 5px;
-    border: none;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
-}
+
 
 main .imovel {
     display: inline-block;
@@ -101,10 +78,7 @@ main .imovel .informacoes h2 {
     margin-bottom: 10px;
 }
 
-main .imovel .informacoes p {
-    font-size: 16px;
-    margin-bottom: 10px;
-}
+
 
 footer {
     background-color: var(--orange);
@@ -114,14 +88,48 @@ footer {
 }
 
 footer img {
-    height: 50px;
-    margin-right: 10px;
-    vertical-align: middle;
+    height: 100px;
 }
 
-footer p {
-    margin: 0;
-    font-size: 16px;
-    line-height: 1.5;
-} 
 
+
+  .container {
+    width: 300px;
+    margin:auto;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  
+  .container2 {
+    width: 300px;
+    border: 1px solid #ccc;
+    text-align: center;
+    
+  }
+  
+        
+  .logo {
+    height: 200px;
+    margin-bottom: 0px;
+    margin-left: -70px;
+  }
+  .forgot-password {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  .welcome-message {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .create-account {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  
+  .button {
+  
+    font-size: 20px;
+  }

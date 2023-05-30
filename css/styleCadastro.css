@@ -3,12 +3,22 @@ body {
 }
 .container {
   width: 300px;
-  margin: 0 auto;
-  padding: 20px;
+  margin:auto;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
   border: 1px solid #ccc;
   text-align: center;
 }
 
+.container2 {
+  width: 300px;
+  border: 1px solid #ccc;
+  text-align: center;
+  
+}
+
+      
 .logo {
   height: 200px;
   margin-bottom: 0px;
@@ -27,7 +37,7 @@ body {
   margin-top: 20px;
 }
 
-button {
+.button {
 
   font-size: 20px;
 }

@@ -1,0 +1,27 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.container {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+.welcome-message {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.email {
+  margin-top: 10px;
+  font-size: 20px;
+}
+.senha {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.button {
+  margin-top: 10px;
+  font-size: 20px;
+}
