@@ -1,0 +1,32 @@
+footer {
+    background-color: var(--orange);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer img {
+    height: 100px;
+}
+
+
+
+.breadcrumb  {
+
+background-color: yellow;
+
+}
+
+.bg-light  {
+
+    background-color: yellow;
+    
+    }
+
+
+
+.card {
+
+    background-color: yellow;
+    
+    }
