@@ -33,10 +33,6 @@
       "PackagePath": "staticwebassets\\Termos.html"
     },
     {
-      "Id": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\wwwroot\\css\\app.css",
-      "PackagePath": "staticwebassets\\css\\app.css"
-    },
-    {
       "Id": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -127,6 +123,10 @@
     {
       "Id": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\wwwroot\\imagens\\logoFooter.svg",
       "PackagePath": "staticwebassets\\imagens\\logoFooter.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.projeto integrador imobiliaria.props",
