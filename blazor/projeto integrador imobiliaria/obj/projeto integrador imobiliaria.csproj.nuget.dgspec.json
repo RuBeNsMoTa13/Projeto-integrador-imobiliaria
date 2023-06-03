@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj": {}
+    "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj": {
+    "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj",
         "projectName": "projeto integrador imobiliaria",
-        "projectPath": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj",
+        "projectPath": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj",
         "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\blazor\\projeto integrador imobiliaria\\obj\\",
+        "outputPath": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hVn8iKOvlqZU4oNUyNohrURRPopCzt441HenEwMpg5riKA28SIO400N1MZo0YbGLLGDIj6sI8iKNZ+hgTign2g==",
+  "dgSpecHash": "LrrD/EbWXsMC9pkHkblB4I2k9OhTOu/wVtLKabO+WqeW2s96qxgDbZAjJXKhY/GfAR8yko+63U8UUhxJUCziuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj",
+  "projectFilePath": "C:\\Users\\ruben\\OneDrive\\Documentos\\Projeto integrador imobiliaria\\Projeto-integrador-imobiliaria\\blazor\\projeto integrador imobiliaria\\projeto integrador imobiliaria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\microsoft.aspnetcore.components.7.0.5.nupkg.sha512",
