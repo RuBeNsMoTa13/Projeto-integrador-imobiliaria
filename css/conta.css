@@ -8,18 +8,21 @@ footer {
 footer img {
     height: 100px;
 }
+body 
 
+{background-color: orange;
+}
 
 
 .breadcrumb  {
 
-background-color: yellow;
+background-color: gold;
 
 }
 
 .bg-light  {
 
-    background-color: yellow;
+    background-color: gold;
     
     }
 
@@ -27,6 +30,6 @@ background-color: yellow;
 
 .card {
 
-    background-color: yellow;
+    background-color: gold;
     
     }
