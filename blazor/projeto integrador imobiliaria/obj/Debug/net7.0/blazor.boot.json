@@ -198,13 +198,13 @@
       "mscorlib.dll": "sha256-qqpKd+W+AFb6UxudEYEKzrz7ma81p5LrWUwPBVvHV4U=",
       "netstandard.dll": "sha256-OYYuPT3JUknj4LdYIa58zF7kDB3tCnLzjCSuhEjtKXM=",
       "System.Private.CoreLib.dll": "sha256-EVS7zPxPV\/41g2mzPwdXtwiigWxI\/SeAHme1IgyD6tc=",
-      "projeto integrador imobiliaria.dll": "sha256-MyYK6mSd8+TVdxLFrIbpGJxHZD9Wo5slWgZj8Uolt70="
+      "projeto integrador imobiliaria.dll": "sha256-cmjq0E0Ieq+E4d59S6h9QGKiRlcLzSPCg3nL517MWLA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "projeto integrador imobiliaria.pdb": "sha256-7WsoOvRLpyTpj04ZtB39HFGsMbQYMYdX7dhAoM\/wm8A="
+      "projeto integrador imobiliaria.pdb": "sha256-0Z+Rt0sd+6SnTH0DtnqFuXlaVTAqX1o4eu9KaRQ9n0Y="
     },
     "runtime": {
       "dotnet.7.0.5.6zonbu2c1w.js": "sha256-codB25EodaFEP43MDCfMBuKXU4LqurUKnQrpoMIFnPs=",
